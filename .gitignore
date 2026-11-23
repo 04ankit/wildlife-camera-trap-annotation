@@ -1,0 +1,4 @@
+﻿data/
+*.zip
+yolov8n.pt
+__pycache__/
